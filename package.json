@@ -1,0 +1,22 @@
+{
+  "name": "budowanieapkiwchmurze",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jezyk2796/budowaApkiWChmurze.git"
+  },
+  "author": "Jezz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jezyk2796/budowaApkiWChmurze/issues"
+  },
+  "homepage": "https://github.com/jezyk2796/budowaApkiWChmurze#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.2"
+  }
+}
