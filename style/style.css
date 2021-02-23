@@ -1,1 +1,11 @@
+html {
+    font-size: 10px;
+}
 
+nav {
+    font-size: 1.4rem;
+}
+
+nav i {
+    font-size: 4rem;
+}
